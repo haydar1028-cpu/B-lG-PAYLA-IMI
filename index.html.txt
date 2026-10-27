@@ -1,4 +1,4 @@
 index.html [generated with web_code_canvas tool]
 FGHFGHGDFGF
 GGGGFGFD
-![EKRAN ALINTISI](EKRAN ALINTISI.JPG)
+![EKRAN ALINTISI](EKRAN ALINTISI.md)
